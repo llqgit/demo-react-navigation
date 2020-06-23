@@ -38,6 +38,13 @@ export default function App() {
 }
 ```
 
+6. 运行 ios
+
+```sh
+# 就是运行 package.json 中的 ios 命令
+yarn ios
+```
+
 ## ps 清除缓存命令
 
 ```sh
